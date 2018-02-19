@@ -5,7 +5,7 @@ body, html {
 
 .bg {
     /* The image used */
-    background-image: url("img/turkey.jpg");
+    background-image: url("img/1920.jpg");
 
     /* Full height */
     height: 100%;
@@ -17,7 +17,7 @@ body, html {
 }
 
 .container-narrow {
-    background-image: url("img/c_d_t.png");
+    background-image: url("img/back.png");
     height: 100%;
     width: 80%;
     margin: auto
@@ -26,4 +26,15 @@ body, html {
 
 
 
+}
+
+.container-1{
+    display: flex;
+    justify-content: space-around;
+}
+.fixed{
+    width: 200px;
+}
+.flex-item{
+    flex-grow: 1;
 }
