@@ -7,7 +7,7 @@ This is my personal website I made for the Dali application. It contains a short
 To view the website, simply go to ryanblankemeier.me
 
 ```
-https://ryanblankemeier.me
+http://ryanblankemeier.me
 ```
 
 
